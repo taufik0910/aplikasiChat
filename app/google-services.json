@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51003775525",
+    "project_id": "chat-aplication-antah",
+    "storage_bucket": "chat-aplication-antah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51003775525:android:82afcbdb891294ade97dcc",
+        "android_client_info": {
+          "package_name": "com.example.antahlah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51003775525-5ilg472n6sg68h96plb4ia33pss618s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ceyuy-3LfyLAwkZT8wkrAPiRqTjvhXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51003775525-5ilg472n6sg68h96plb4ia33pss618s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
